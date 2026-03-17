@@ -16,37 +16,37 @@ function ProductList({ onContinueShopping }) {
       plants: [
         {
           name: 'Snake Plant',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sanseveria_trifasciata_Prain.jpg/220px-Sanseveria_trifasciata_Prain.jpg',
+          image: 'https://images.unsplash.com/photo-1593482892290-f54927ae1bb6?w=400&auto=format&fit=crop',
           description: 'Produces oxygen at night, improving air quality.',
           cost: '$15',
         },
         {
           name: 'Spider Plant',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chlorophytum_comosum_0001.jpg/220px-Chlorophytum_comosum_0001.jpg',
+          image: 'https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=400&auto=format&fit=crop',
           description: 'Filters formaldehyde and xylene from the air.',
           cost: '$12',
         },
         {
           name: 'Peace Lily',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Spathiphyllum_cochlearispathum_RTBG.jpg/220px-Spathiphyllum_cochlearispathum_RTBG.jpg',
+          image: 'https://images.unsplash.com/photo-1616690248010-08748e90f7ef?w=400&auto=format&fit=crop',
           description: 'Removes mold spores and purifies the air.',
           cost: '$18',
         },
         {
           name: 'Boston Fern',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Boston_fern_on_a_stick.jpg/220px-Boston_fern_on_a_stick.jpg',
+          image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&auto=format&fit=crop',
           description: 'Acts as a natural humidifier and air purifier.',
           cost: '$20',
         },
         {
           name: 'Rubber Plant',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ficus_elastica_-_Rubber_plant.jpg/220px-Ficus_elastica_-_Rubber_plant.jpg',
+          image: 'https://images.unsplash.com/photo-1599598425947-5202edd56bdb?w=400&auto=format&fit=crop',
           description: 'Absorbs airborne chemicals and toxins.',
           cost: '$17',
         },
         {
           name: 'Aloe Vera',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Aloe_vera_flower_inset.png/220px-Aloe_vera_flower_inset.png',
+          image: 'https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400&auto=format&fit=crop',
           description: 'Clears formaldehyde and benzene from air.',
           cost: '$14',
         },
@@ -57,37 +57,37 @@ function ProductList({ onContinueShopping }) {
       plants: [
         {
           name: 'Lavender',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Above_Lavender.jpg/220px-Above_Lavender.jpg',
+          image: 'https://images.unsplash.com/photo-1499578124509-1611b77778c8?w=400&auto=format&fit=crop',
           description: 'Calming scent that reduces anxiety and stress.',
           cost: '$20',
         },
         {
           name: 'Jasmine',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Jasmine_flowers.jpg/220px-Jasmine_flowers.jpg',
+          image: 'https://images.unsplash.com/photo-1591958911259-bee2173bdccc?w=400&auto=format&fit=crop',
           description: 'Sweet fragrance that improves mood and sleep.',
           cost: '$18',
         },
         {
           name: 'Rosemary',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rosemary_bush.jpg/220px-Rosemary_bush.jpg',
+          image: 'https://images.unsplash.com/photo-1515586000433-45406d8e6662?w=400&auto=format&fit=crop',
           description: 'Woody aroma that enhances memory and focus.',
           cost: '$15',
         },
         {
           name: 'Mint',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mintgarden.jpg/220px-Mintgarden.jpg',
+          image: 'https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=400&auto=format&fit=crop',
           description: 'Fresh scent that boosts energy and alertness.',
           cost: '$12',
         },
         {
           name: 'Lemon Balm',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lemon_balm_bush.jpg/220px-Lemon_balm_bush.jpg',
+          image: 'https://images.unsplash.com/photo-1622598762700-c9f605f59a76?w=400&auto=format&fit=crop',
           description: 'Citrusy fragrance that calms nerves.',
           cost: '$14',
         },
         {
           name: 'Hyacinth',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hyacinthus_orientalis_floriade.jpg/220px-Hyacinthus_orientalis_floriade.jpg',
+          image: 'https://images.unsplash.com/photo-1589994160839-163f8b66c1a5?w=400&auto=format&fit=crop',
           description: 'Intense floral scent that uplifts the spirit.',
           cost: '$22',
         },
@@ -98,37 +98,37 @@ function ProductList({ onContinueShopping }) {
       plants: [
         {
           name: 'Echinacea',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Echinacea_purpurea.jpg/220px-Echinacea_purpurea.jpg',
+          image: 'https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?w=400&auto=format&fit=crop',
           description: 'Boosts the immune system and fights infections.',
           cost: '$16',
         },
         {
           name: 'Peppermint',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mentha_x_piperita_003.jpg/220px-Mentha_x_piperita_003.jpg',
+          image: 'https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=400&auto=format&fit=crop',
           description: 'Relieves headaches and aids digestion.',
           cost: '$13',
         },
         {
           name: 'Turmeric',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Curcuma_longa_roots.jpg/220px-Curcuma_longa_roots.jpg',
+          image: 'https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=400&auto=format&fit=crop',
           description: 'Anti-inflammatory and antioxidant properties.',
           cost: '$14',
         },
         {
           name: 'Chamomile',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Chamomile%40original_size.jpg/220px-Chamomile%40original_size.jpg',
+          image: 'https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=400&auto=format&fit=crop',
           description: 'Soothes anxiety and promotes restful sleep.',
           cost: '$15',
         },
         {
           name: 'Calendula',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Calendula_close.jpg/220px-Calendula_close.jpg',
+          image: 'https://images.unsplash.com/photo-1526397751294-331021109fbd?w=400&auto=format&fit=crop',
           description: 'Heals skin and reduces inflammation.',
           cost: '$12',
         },
         {
           name: 'Valerian',
-          image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Valeriana_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-137.jpg/220px-Valeriana_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-137.jpg',
+          image: 'https://images.unsplash.com/photo-1592150621744-aca64f48394a?w=400&auto=format&fit=crop',
           description: 'Natural sedative for stress and sleep disorders.',
           cost: '$17',
         },
@@ -152,11 +152,7 @@ function ProductList({ onContinueShopping }) {
   };
 
   if (showCart) {
-    return (
-      <CartItem
-        onContinueShopping={handleContinueShoppingFromCart}
-      />
-    );
+    return <CartItem onContinueShopping={handleContinueShoppingFromCart} />;
   }
 
   return (
@@ -196,9 +192,8 @@ function ProductList({ onContinueShopping }) {
                     src={plant.image}
                     alt={plant.name}
                     className="plant-image"
-                    onError={(e) => {
-                      e.target.src = 'https://via.placeholder.com/150x120?text=' + plant.name;
-                    }}
+                    referrerPolicy="no-referrer"
+                    crossOrigin="anonymous"
                   />
                   <p className="plant-cost">{plant.cost}</p>
                   <p className="plant-description">{plant.description}</p>
