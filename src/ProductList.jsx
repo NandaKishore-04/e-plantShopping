@@ -28,13 +28,13 @@ function ProductList({ onContinueShopping }) {
         },
         {
           name: 'Peace Lily',
-          image: 'https://images.unsplash.com/photo-1616690248010-08748e90f7ef?w=400&auto=format&fit=crop',
+          image: 'https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?w=400&auto=format&fit=crop',
           description: 'Removes mold spores and purifies the air.',
           cost: '$18',
         },
         {
           name: 'Boston Fern',
-          image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&auto=format&fit=crop',
+          image: 'https://images.unsplash.com/photo-1587334274328-64186a80aeee?w=400&auto=format&fit=crop',
           description: 'Acts as a natural humidifier and air purifier.',
           cost: '$20',
         },
@@ -57,7 +57,7 @@ function ProductList({ onContinueShopping }) {
       plants: [
         {
           name: 'Lavender',
-          image: 'https://images.unsplash.com/photo-1499578124509-1611b77778c8?w=400&auto=format&fit=crop',
+          image: 'https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?w=400&auto=format&fit=crop',
           description: 'Calming scent that reduces anxiety and stress.',
           cost: '$20',
         },
@@ -81,13 +81,13 @@ function ProductList({ onContinueShopping }) {
         },
         {
           name: 'Lemon Balm',
-          image: 'https://images.unsplash.com/photo-1622598762700-c9f605f59a76?w=400&auto=format&fit=crop',
+          image: 'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&auto=format&fit=crop',
           description: 'Citrusy fragrance that calms nerves.',
           cost: '$14',
         },
         {
           name: 'Hyacinth',
-          image: 'https://images.unsplash.com/photo-1589994160839-163f8b66c1a5?w=400&auto=format&fit=crop',
+          image: 'https://images.unsplash.com/photo-1508610048659-a06b669e3321?w=400&auto=format&fit=crop',
           description: 'Intense floral scent that uplifts the spirit.',
           cost: '$22',
         },
@@ -98,7 +98,7 @@ function ProductList({ onContinueShopping }) {
       plants: [
         {
           name: 'Echinacea',
-          image: 'https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?w=400&auto=format&fit=crop',
+          image: 'https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=400&auto=format&fit=crop',
           description: 'Boosts the immune system and fights infections.',
           cost: '$16',
         },
@@ -116,13 +116,13 @@ function ProductList({ onContinueShopping }) {
         },
         {
           name: 'Chamomile',
-          image: 'https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=400&auto=format&fit=crop',
+          image: 'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=400&auto=format&fit=crop',
           description: 'Soothes anxiety and promotes restful sleep.',
           cost: '$15',
         },
         {
           name: 'Calendula',
-          image: 'https://images.unsplash.com/photo-1526397751294-331021109fbd?w=400&auto=format&fit=crop',
+          image: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?w=400&auto=format&fit=crop',
           description: 'Heals skin and reduces inflammation.',
           cost: '$12',
         },
